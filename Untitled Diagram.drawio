@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T07:19:45.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="aZp0LupUBfvVCffHtUi0" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T07:22:51.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="VLhVDZIBydusMUGTLlZk" version="14.2.7" type="github">
   <diagram id="YEBLT5E4UBDKSanjakpC" name="Page-1">
     <mxGraphModel dx="788" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="YELHS7NM6SDTsRkJ9FZ3-35" value="行业详情页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="495" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-37" value="选择训练完成的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="440" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-38" value="新建模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="495" width="85" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
