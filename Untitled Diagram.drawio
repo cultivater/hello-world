@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T07:12:44.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="_w9hCcZf5OYDhbk9KAeY" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T07:15:50.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="tC_m2YnW2PKqRo2UzsmB" version="14.2.7" type="github">
   <diagram id="YEBLT5E4UBDKSanjakpC" name="Page-1">
     <mxGraphModel dx="788" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="YELHS7NM6SDTsRkJ9FZ3-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="220" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-27" value="新建行业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-29" value="行业名、基准数据集（选填）、bsku（选填）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="460" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
