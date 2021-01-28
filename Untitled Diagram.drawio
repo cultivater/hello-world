@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T07:27:31.460Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="klMKNGZuTIniCFM_Iga8" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T07:32:26.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="UKv0bYbO57OL5ptow4ge" version="14.2.7" type="github">
   <diagram id="YEBLT5E4UBDKSanjakpC" name="Page-1">
-    <mxGraphModel dx="788" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="652" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,6 +112,15 @@
         <mxCell id="YELHS7NM6SDTsRkJ9FZ3-35" value="行业详情页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="495" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YELHS7NM6SDTsRkJ9FZ3-37" target="YELHS7NM6SDTsRkJ9FZ3-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YELHS7NM6SDTsRkJ9FZ3-37" target="YELHS7NM6SDTsRkJ9FZ3-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YELHS7NM6SDTsRkJ9FZ3-37" target="YELHS7NM6SDTsRkJ9FZ3-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YELHS7NM6SDTsRkJ9FZ3-37" value="选择训练完成的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="440" width="91.5" height="30" as="geometry" />
         </mxCell>
@@ -130,11 +139,23 @@
         <mxCell id="YELHS7NM6SDTsRkJ9FZ3-40" value="训练完成后自动预测基准数据集、评估准召、邮件通知" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="508.5" y="655" width="91.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-46" value="选择训练完成的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="390" width="91.5" height="30" as="geometry" />
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YELHS7NM6SDTsRkJ9FZ3-46" target="YELHS7NM6SDTsRkJ9FZ3-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-47" value="选择训练完成的模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="508.5" y="494" width="91.5" height="30" as="geometry" />
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-46" value="模型预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="440" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-47" value="查看历史模型准召图表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508.5" y="495" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-49" value="查看准召" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="512" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-51" value="模型蒸馏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="360" width="91.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YELHS7NM6SDTsRkJ9FZ3-57" value="是否search kg？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="761" y="425" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
